@@ -2,7 +2,7 @@
 
 Computer science at Virginia Tech.
 
-[Site](https://karthikmandli.vercel.app) · [LinkedIn](https://www.linkedin.com/in/karthik-mandli-56794a2a5)
+[Site](https://karthikmandli.com) · [LinkedIn](https://www.linkedin.com/in/karthik-mandli-56794a2a5)
 
 **AI products**  
 [Scout (live)](https://scoutfeed.vercel.app): internship tracker with a scanned job feed, private applications, and an MCP server  
